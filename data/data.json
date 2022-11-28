@@ -1,0 +1,23 @@
+{
+        "laptop": [ 
+            {
+            "id": 1,
+            "brand": "Samsung",
+            "serialNumber": 1010100010,
+            "userName":"nator21"
+        },
+
+        {
+        "id": 2,
+        "brand": "Lenovo",
+        "serialNumber": 20020100030,
+        "userName":"nator22"
+        },
+        {
+            "id": 3,
+            "brand": "Dell",
+            "serialNumber": 3010300030,
+            "userName":"nator23"
+        }
+            ]
+        }
